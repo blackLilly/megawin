@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d88d339.chunk.css",
-    "main.js": "/static/js/main.6358c897.chunk.js",
-    "main.js.map": "/static/js/main.6358c897.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.07616c58.js",
-    "runtime-main.js.map": "/static/js/runtime-main.07616c58.js.map",
-    "static/js/2.15d557a5.chunk.js": "/static/js/2.15d557a5.chunk.js",
-    "static/js/2.15d557a5.chunk.js.map": "/static/js/2.15d557a5.chunk.js.map",
-    "static/js/3.c07fabc1.chunk.js": "/static/js/3.c07fabc1.chunk.js",
-    "static/js/3.c07fabc1.chunk.js.map": "/static/js/3.c07fabc1.chunk.js.map",
-    "static/js/4.2bbb276f.chunk.js": "/static/js/4.2bbb276f.chunk.js",
-    "static/js/4.2bbb276f.chunk.js.map": "/static/js/4.2bbb276f.chunk.js.map",
-    "static/js/5.6aa7b10e.chunk.js": "/static/js/5.6aa7b10e.chunk.js",
-    "static/js/5.6aa7b10e.chunk.js.map": "/static/js/5.6aa7b10e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5d88d339.chunk.css.map": "/static/css/main.5d88d339.chunk.css.map",
-    "static/js/2.15d557a5.chunk.js.LICENSE.txt": "/static/js/2.15d557a5.chunk.js.LICENSE.txt",
-    "static/js/3.c07fabc1.chunk.js.LICENSE.txt": "/static/js/3.c07fabc1.chunk.js.LICENSE.txt",
-    "static/js/4.2bbb276f.chunk.js.LICENSE.txt": "/static/js/4.2bbb276f.chunk.js.LICENSE.txt",
-    "static/js/5.6aa7b10e.chunk.js.LICENSE.txt": "/static/js/5.6aa7b10e.chunk.js.LICENSE.txt",
-    "static/media/bow-and-arrow-256x256.9d8ea073.png": "/static/media/bow-and-arrow-256x256.9d8ea073.png"
+    "main.css": "/megawin/static/css/main.5d88d339.chunk.css",
+    "main.js": "/megawin/static/js/main.c8d6b519.chunk.js",
+    "main.js.map": "/megawin/static/js/main.c8d6b519.chunk.js.map",
+    "runtime-main.js": "/megawin/static/js/runtime-main.acb1a604.js",
+    "runtime-main.js.map": "/megawin/static/js/runtime-main.acb1a604.js.map",
+    "static/js/2.66591e02.chunk.js": "/megawin/static/js/2.66591e02.chunk.js",
+    "static/js/2.66591e02.chunk.js.map": "/megawin/static/js/2.66591e02.chunk.js.map",
+    "static/js/3.b30884d7.chunk.js": "/megawin/static/js/3.b30884d7.chunk.js",
+    "static/js/3.b30884d7.chunk.js.map": "/megawin/static/js/3.b30884d7.chunk.js.map",
+    "static/js/4.8cbf8828.chunk.js": "/megawin/static/js/4.8cbf8828.chunk.js",
+    "static/js/4.8cbf8828.chunk.js.map": "/megawin/static/js/4.8cbf8828.chunk.js.map",
+    "static/js/5.0eb9a943.chunk.js": "/megawin/static/js/5.0eb9a943.chunk.js",
+    "static/js/5.0eb9a943.chunk.js.map": "/megawin/static/js/5.0eb9a943.chunk.js.map",
+    "index.html": "/megawin/index.html",
+    "static/css/main.5d88d339.chunk.css.map": "/megawin/static/css/main.5d88d339.chunk.css.map",
+    "static/js/2.66591e02.chunk.js.LICENSE.txt": "/megawin/static/js/2.66591e02.chunk.js.LICENSE.txt",
+    "static/js/3.b30884d7.chunk.js.LICENSE.txt": "/megawin/static/js/3.b30884d7.chunk.js.LICENSE.txt",
+    "static/js/4.8cbf8828.chunk.js.LICENSE.txt": "/megawin/static/js/4.8cbf8828.chunk.js.LICENSE.txt",
+    "static/js/5.0eb9a943.chunk.js.LICENSE.txt": "/megawin/static/js/5.0eb9a943.chunk.js.LICENSE.txt",
+    "static/media/bow-and-arrow-256x256.9d8ea073.png": "/megawin/static/media/bow-and-arrow-256x256.9d8ea073.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.07616c58.js",
-    "static/js/3.c07fabc1.chunk.js",
+    "static/js/runtime-main.acb1a604.js",
+    "static/js/3.b30884d7.chunk.js",
     "static/css/main.5d88d339.chunk.css",
-    "static/js/main.6358c897.chunk.js"
+    "static/js/main.c8d6b519.chunk.js"
   ]
 }
