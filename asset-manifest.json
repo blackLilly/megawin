@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/megawin/static/css/main.773b320a.chunk.css",
+    "main.js": "/megawin/static/js/main.0579e4c5.chunk.js",
+    "main.js.map": "/megawin/static/js/main.0579e4c5.chunk.js.map",
+    "runtime-main.js": "/megawin/static/js/runtime-main.acb1a604.js",
+    "runtime-main.js.map": "/megawin/static/js/runtime-main.acb1a604.js.map",
+    "static/js/2.66591e02.chunk.js": "/megawin/static/js/2.66591e02.chunk.js",
+    "static/js/2.66591e02.chunk.js.map": "/megawin/static/js/2.66591e02.chunk.js.map",
+    "static/js/3.b30884d7.chunk.js": "/megawin/static/js/3.b30884d7.chunk.js",
+    "static/js/3.b30884d7.chunk.js.map": "/megawin/static/js/3.b30884d7.chunk.js.map",
+    "static/js/4.8cbf8828.chunk.js": "/megawin/static/js/4.8cbf8828.chunk.js",
+    "static/js/4.8cbf8828.chunk.js.map": "/megawin/static/js/4.8cbf8828.chunk.js.map",
+    "static/js/5.0eb9a943.chunk.js": "/megawin/static/js/5.0eb9a943.chunk.js",
+    "static/js/5.0eb9a943.chunk.js.map": "/megawin/static/js/5.0eb9a943.chunk.js.map",
+    "index.html": "/megawin/index.html",
+    "static/css/main.773b320a.chunk.css.map": "/megawin/static/css/main.773b320a.chunk.css.map",
+    "static/js/2.66591e02.chunk.js.LICENSE.txt": "/megawin/static/js/2.66591e02.chunk.js.LICENSE.txt",
+    "static/js/3.b30884d7.chunk.js.LICENSE.txt": "/megawin/static/js/3.b30884d7.chunk.js.LICENSE.txt",
+    "static/js/4.8cbf8828.chunk.js.LICENSE.txt": "/megawin/static/js/4.8cbf8828.chunk.js.LICENSE.txt",
+    "static/js/5.0eb9a943.chunk.js.LICENSE.txt": "/megawin/static/js/5.0eb9a943.chunk.js.LICENSE.txt",
+    "static/media/bow-and-arrow-256x256.9d8ea073.png": "/megawin/static/media/bow-and-arrow-256x256.9d8ea073.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acb1a604.js",
+    "static/js/3.b30884d7.chunk.js",
+    "static/css/main.773b320a.chunk.css",
+    "static/js/main.0579e4c5.chunk.js"
+  ]
+}
