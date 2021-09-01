@@ -101,7 +101,7 @@
             else
                 a = this.blendColors(n, "#000000", .5);
             $("#mathcolorapp").css("backgroundColor", "rgb(" + t + ")"),
-            $(".color-field, #mathcolorapp , a").css("color", a),
+            $(".color-field, #mathcolorapp").css("color", a),
             $(".color-field").css("borderColor", a),
             $(".rw-monogram").css("fill", a),
             r && (location.hash = "/hex/" + String(n).replace(/[^0-9a-f]/gi, ""))
